@@ -1,0 +1,14 @@
+D:\Vadim\GB\seminar1\les5_task3\bin\Debug\net8.0\les5_task3.exe
+D:\Vadim\GB\seminar1\les5_task3\bin\Debug\net8.0\les5_task3.deps.json
+D:\Vadim\GB\seminar1\les5_task3\bin\Debug\net8.0\les5_task3.runtimeconfig.json
+D:\Vadim\GB\seminar1\les5_task3\bin\Debug\net8.0\les5_task3.dll
+D:\Vadim\GB\seminar1\les5_task3\bin\Debug\net8.0\les5_task3.pdb
+D:\Vadim\GB\seminar1\les5_task3\obj\Debug\net8.0\les5_task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vadim\GB\seminar1\les5_task3\obj\Debug\net8.0\les5_task3.AssemblyInfoInputs.cache
+D:\Vadim\GB\seminar1\les5_task3\obj\Debug\net8.0\les5_task3.AssemblyInfo.cs
+D:\Vadim\GB\seminar1\les5_task3\obj\Debug\net8.0\les5_task3.csproj.CoreCompileInputs.cache
+D:\Vadim\GB\seminar1\les5_task3\obj\Debug\net8.0\les5_task3.dll
+D:\Vadim\GB\seminar1\les5_task3\obj\Debug\net8.0\refint\les5_task3.dll
+D:\Vadim\GB\seminar1\les5_task3\obj\Debug\net8.0\les5_task3.pdb
+D:\Vadim\GB\seminar1\les5_task3\obj\Debug\net8.0\les5_task3.genruntimeconfig.cache
+D:\Vadim\GB\seminar1\les5_task3\obj\Debug\net8.0\ref\les5_task3.dll
